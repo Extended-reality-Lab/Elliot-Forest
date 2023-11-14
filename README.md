@@ -1,7 +1,7 @@
 # Elliot-Forest
 For Project to Fully Function, please run in Unreal Engine 5.3+. Some levels will not be built properly if this step is not followed.
 
-For the purposes of posting this repository and making it public, we have removed the following content from this version:
+The full prototype consists of a fully functioning forest visualization that employs data-driven and procedural methods to generate forests in a revolutionary way. Including the capability to visualize forests under different restoration techniques, times, and weather conditions. For the purposes of posting this repository and making it public, we have removed the following content from this version:
 
 Ultra Dynamic Sky: https://www.unrealengine.com/marketplace/en-US/product/ultra-dynamic-sky?sessionInvalidated=true
 
